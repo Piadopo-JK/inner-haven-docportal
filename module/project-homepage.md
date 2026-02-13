@@ -4,7 +4,7 @@
 ---
 
 ## Internal Code Name
-**Target:** INNER-HAVEN.010.001  
+**Target:** INNER-HAVEN.010.001
 
 ---
 
@@ -12,23 +12,20 @@
 
 | Revision Date | Version | Description | Tracking Notes | Approved By |
 |--------------|---------|-------------|----------------|-------------|
-| 2026-02-13 | v1.0 | First document version | IH-0001 | John Kyle A. Piadopo |
+| 2026-02-13 | v1.0 | Initial Design Specification | IH-0001 | John Kyle A. Piadopo |
 
 ---
 
 ## Site Map
 
-- [Project Homepage](README.md)
-- [Authentication](authentication.md)
-- [Appointment Scheduling](appointment-scheduling.md)
-- [Counselor Directory](counselor-directory.md)
-- [Online Counseling](online-counseling.md)
+- [Project Homepage](project-homepage.md)
+- [Secure Login & Authentication](secure-login-authentication.md)
+- [Online Appointment Scheduling](online-appointment-scheduling.md)
+- [Notifications & Reminders](notifications-reminders.md)
+- [Counselor Directory & Availability](counselor-directory-availability.md)
+- [Google Meet / Online Counseling](google-meet-online-counseling.md)
 - [Anonymous Help Request](anonymous-help-request.md)
-- [Notifications](notifications.md)
-- [Counselor Notes](counselor-notes.md)
-- [Manage Availability](manage-availability.md)
-- [Appointment Approval](appointment-approval.md)
-- [Student History](student-history.md)
+- [Counselor Notes / Feedback](counselor-notes-feedback.md)
 
 ---
 
